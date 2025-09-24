@@ -1,4 +1,3 @@
-
 # 日常へIT設計という概念を持ち込んでみる
 
 ## はじめに
@@ -179,5 +178,5 @@ https://www.sirogohan.com/recipe/hanba-gu/：「家庭的な基本のハンバ�
 Claude・Gemini：一部のどうしても思いつかなかった例えを提案してくれました。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzM4NDkwM119
+eyJoaXN0b3J5IjpbMTk1ODg1NjA3LC0xOTMzODQ5MDNdfQ==
 -->

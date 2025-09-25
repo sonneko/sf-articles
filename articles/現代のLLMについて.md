@@ -93,7 +93,7 @@ Output = Input * Param_1 * Papram_2 * Param_3 * ... * Param_n
 ## Transformer
 ここではLLMに実際に組み込まれている概念を説明していきます。
 
-Transformerを解説する前に、Transformer以前の自然言語(e)
+Transformerを解説する前に、Transformer以前の自然言語処理の技術について解説していきます。自然言語処理とは、英語・日本語など人間が使う言葉を機械を持って調べるという分野です。
 
 LLMはこれまでの文字を見てその直後に続く言葉を推論します。それを何度も繰り返すことで文章を作っていきます。イメージはスマホなどの予測変換のレベルの高い版のようなものです。一番最初に来た予測変換を連打していくとそれっぽい文章ができます。（試してみるとわかりますが大抵絵文字で収束します。）
 
@@ -101,5 +101,5 @@ LLMは文字を文字として捉えるのではなくトークンという単�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDY4NzU5NDYsNDAxMjI2NTE3XX0=
+eyJoaXN0b3J5IjpbLTE1NDQyODYyMzksNDAxMjI2NTE3XX0=
 -->

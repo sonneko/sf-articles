@@ -176,7 +176,8 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 - 人間に「同じ人間である」と思ってもらえること
 - 倫理感？(って何)
 
-1つ目についてですがAIは責任を取れません。一般的に何かのミスを犯したときにAIのせいにすることは言い訳と捉えられます。逆に言えば人間はAIを管理する能力を持っています。
+1つ目についてですがAIは責任を取れません。大抵のAIサービスには`Gemini は不正確な情報を表示することがあるため、生成された回答を再確認するようにしてください。`ということw
+一般的に何かのミスを犯したときにAIのせいにすることは言い訳と捉えられます。逆に言えば人間はAIを管理する能力を持っています。
 
 2つ目について、AIと結婚する人は性の多様化が進んでいるといってもおそらくいないでしょう。またAI同士のスポーツや芸能なんてつまらないですよね。
 
@@ -190,7 +191,7 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 
 僕がAIに対して絶対に勝っていると誇れるのは、エネルギー消費量の低さです。これまで見てきた通り現代の高精度モデルレベル以上の脳が世の中には大量に転がっているというわけです。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTA3NzUyOSwtOTczMzMwODIxLDEwMz
-M2OTA2NzQsMTIzMzIzNDk2MCwtMTM2NjI2OTI2OSwtMTU0NDI4
-NjIzOSw0MDEyMjY1MTddfQ==
+eyJoaXN0b3J5IjpbLTE1NTc2OTYyNDIsLTk3MzMzMDgyMSwxMD
+MzNjkwNjc0LDEyMzMyMzQ5NjAsLTEzNjYyNjkyNjksLTE1NDQy
+ODYyMzksNDAxMjI2NTE3XX0=
 -->

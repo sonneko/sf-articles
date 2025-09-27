@@ -189,11 +189,13 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 
 >物理屋の方は不確定性原理があるから、完璧な再現は不可能であると思われたかもしれませんが、量子力学的な不確定なことが表れたとしても、それを測定することはできませんからその世界で考えてしまうと「脳と脳シミュレーションが同じであるか否か」という命題は証明不可能です。よって考える意味も必要もありません。（というのが僕の意見です。）
 
-そうしたら人間とAIって区別できません。図らずもAIとは何かを初めて定義した人は
+そうしたら人間とAIって区別できません。図らずもAIとは何かの定義にチューリング・テストというものがあります。
+
+>脱線ですがチューリングさんは計算機科学という分野の研究者の方で、「コンピュータ科学」
 
 僕がAIに対して絶対に勝っていると誇れるのは、エネルギー消費量の低さです。これまで見てきた通り現代の高精度モデルレベル以上の脳が世の中には大量に転がっているというわけです。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTE2OTk2OTEsLTk3MzMzMDgyMSwxMD
-MzNjkwNjc0LDEyMzMyMzQ5NjAsLTEzNjYyNjkyNjksLTE1NDQy
-ODYyMzksNDAxMjI2NTE3XX0=
+eyJoaXN0b3J5IjpbMTQxNTgzMDY4MSwtOTczMzMwODIxLDEwMz
+M2OTA2NzQsMTIzMzIzNDk2MCwtMTM2NjI2OTI2OSwtMTU0NDI4
+NjIzOSw0MDEyMjY1MTddfQ==
 -->

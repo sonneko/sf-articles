@@ -146,8 +146,10 @@ Token_1 Token_2 Token_3 Token_4
 >ちなみにですがこの論文のヘッダを見るとわかりますが、この論文は*Google*のAI研究者によるものです。
 商業サービスという面では*OpenAI*による*chatGPT*に抜かれていますが、技術的には*Google*が先なんです。~~*Google*恐ろしや~~
 
+これでアルゴリズムの直感的な説明は終わりなのですが、これで本当にあんなAIができてしまうのかと驚嘆した方が多いのではないかと思います。そんな方のためにこの計算がどれほど大変か、そして我々の脳がどれほどすごいかを説明します。
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3MjQxMzEyLC0xMzY2MjY5MjY5LC0xNT
-Q0Mjg2MjM5LDQwMTIyNjUxN119
+eyJoaXN0b3J5IjpbLTc3MTA0OTIwNywtMTM2NjI2OTI2OSwtMT
+U0NDI4NjIzOSw0MDEyMjY1MTddfQ==
 -->

@@ -173,7 +173,8 @@ LLMは人間と明らかに競合しています。
 #### 人間の優位性を考える
 AIがさらに極限まで発展したとしても、人間がAIに勝っているのは以下のことだと思います。
 - 責任を取る能力
-- AIにはない倫理感？(って何)
+- 人間に「同じ人げ」
+- 倫理感？(って何)
 
 一つ目についてですがAIは責任を取れません。一般的に何かのミスを犯したときにAIのせいにすることは言い訳と捉えられます。逆に言えば人間はAIを管理する能力を持っています。
 
@@ -185,7 +186,7 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 
 僕がAIに対して絶対に勝っていると誇れるのは、エネルギー消費量の低さです。これまで見てきた通り現代の高精度モデルレベル以上の脳が世の中には大量に転がっているというわけです。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjYwMDg0NCwtOTczMzMwODIxLDEwMz
-M2OTA2NzQsMTIzMzIzNDk2MCwtMTM2NjI2OTI2OSwtMTU0NDI4
-NjIzOSw0MDEyMjY1MTddfQ==
+eyJoaXN0b3J5IjpbLTE1OTkwODUwODIsLTk3MzMzMDgyMSwxMD
+MzNjkwNjc0LDEyMzMyMzQ5NjAsLTEzNjYyNjkyNjksLTE1NDQy
+ODYyMzksNDAxMjI2NTE3XX0=
 -->

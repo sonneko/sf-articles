@@ -87,7 +87,7 @@ Parameter_k+1 = (-1) * 勾配ベクトル * 学習率 + Parameter_k
 
 ニューラルネットワークは、巨大な行列でできたパラメータを掛け算していくという計算方法です。
 ```
-Output = Input * Param_1 * Papram_2 * Param_3 * ... * Param_n
+Output = Input * Param_1 * Param_2 * Param_3 * ... * Param_n
 ```
 この行列の演算を細く分解して四則演算レベルまで持っていくと、まるで人間の脳の中にあるニューロン細胞のつながりのように見えてくるというわけでニューラルネットワークと呼ばれています。
 >注：ネットワークにはインターネット的な意味は含まれず網目のように繋がっているという意味です。
@@ -210,8 +210,8 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 # 参考
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzg4MjQ1NDIsNTM0NzIwOTgxLDY4MT
-g1MTE0MywxNjc1MDYwMTU2LC05NzMzMzA4MjEsMTAzMzY5MDY3
-NCwxMjMzMjM0OTYwLC0xMzY2MjY5MjY5LC0xNTQ0Mjg2MjM5LD
-QwMTIyNjUxN119
+eyJoaXN0b3J5IjpbMTIzODM5NzU3OCw1MzQ3MjA5ODEsNjgxOD
+UxMTQzLDE2NzUwNjAxNTYsLTk3MzMzMDgyMSwxMDMzNjkwNjc0
+LDEyMzMyMzQ5NjAsLTEzNjYyNjkyNjksLTE1NDQyODYyMzksND
+AxMjI2NTE3XX0=
 -->

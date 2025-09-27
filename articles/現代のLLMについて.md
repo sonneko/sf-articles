@@ -144,7 +144,7 @@ Token_1 Token_2 Token_3 Token_4
 
 まとめると`Key`を目印に`Query`がはたらきそれに対して`Value`が送られるということです。
 
-`Key`と`Query`が*似ている*ベクトルであればあるほど`Value`がターゲットのトークンのベクトルに対して加算されます。トークンの数分`Key`・`Query`・`Value`ベクトルがあるということなので、実際には加算ではなく平均値の足し算になります。
+`Key`と`Query`が*似ている*ベクトルであればあるほど`Value`がターゲットのトークンのベクトルに対して加算されます。つまり重み付き和です。トークンの数分`Key`・`Query`・`Value`ベクトルがあるということなので、実際には重み付き和の対象は複数で平均をとるようなものになります。
 
 ...という操作を行った後、ベクトルをニューラルネットワークに通すというのを1セットとして、何度もこのセットが繰り返されます。
 これが*Attention機構*です。実はサブタイトルの*Attention Is All You Need*の元ネタはこの計算機構を世界で初めて提案した有名な論文のタイトルです。
@@ -208,8 +208,7 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 # 参考
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODUyNTI2OSw2ODE4NTExNDMsMTY3NT
-A2MDE1NiwtOTczMzMwODIxLDEwMzM2OTA2NzQsMTIzMzIzNDk2
-MCwtMTM2NjI2OTI2OSwtMTU0NDI4NjIzOSw0MDEyMjY1MTddfQ
-==
+eyJoaXN0b3J5IjpbNTM0NzIwOTgxLDY4MTg1MTE0MywxNjc1MD
+YwMTU2LC05NzMzMzA4MjEsMTAzMzY5MDY3NCwxMjMzMjM0OTYw
+LC0xMzY2MjY5MjY5LC0xNTQ0Mjg2MjM5LDQwMTIyNjUxN119
 -->

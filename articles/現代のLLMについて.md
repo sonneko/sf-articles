@@ -33,7 +33,7 @@ f(input) = input * Parameter
 AI開発者の目標はいい感じのParameterというデータを作ることに変わりました。
 > 注：`*`というのはこのたくさんの数字のグループに定義される何らかの演算です。(具体的には行列計算の組み合わさった非常に複雑なもの)
 
-AI開発者の目標はいい感じの関数*f*が**たまたま**できるParameterを作ることです。この「いい感じ」というのを厳密に定義します。
+AI開発者の目標はいい感じの関数*f*ができるParameterを作ることです。この「いい感じ」というのを厳密に定義します。
 結局何がしたかったかというと「任意の質問を受け取って自然な回答を返すような関数」を作ることでした。つまりここでの「いい感じ」とは自然な回答を返すという意味です。コンピュータのためにそのための絶対的に正しい答えを作ります。例えばこんな感じ。
 ```
 質問：人間は何本足ですか？
@@ -210,7 +210,7 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 # 参考
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzQ5NjE2MzEsNTM0NzIwOTgxLDY4MT
+eyJoaXN0b3J5IjpbLTE3NTAxMTg0MjksNTM0NzIwOTgxLDY4MT
 g1MTE0MywxNjc1MDYwMTU2LC05NzMzMzA4MjEsMTAzMzY5MDY3
 NCwxMjMzMjM0OTYwLC0xMzY2MjY5MjY5LC0xNTQ0Mjg2MjM5LD
 QwMTIyNjUxN119

@@ -191,11 +191,12 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 
 そうしたら人間とAIって区別できません。図らずもAIとは何かの定義にチューリング・テストというものがあります。
 
->脱線ですがチューリングさんは計算機科学という分野の研究者の方で、「コンピュータ科学」
+>脱線ですがチューリングさんは計算機科学という分野の研究者の方で「コンピュータ科学の父」や「人工知能の父」と呼ばれています。僕の推しの一人です。
+
 
 僕がAIに対して絶対に勝っていると誇れるのは、エネルギー消費量の低さです。これまで見てきた通り現代の高精度モデルレベル以上の脳が世の中には大量に転がっているというわけです。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNTgzMDY4MSwtOTczMzMwODIxLDEwMz
+eyJoaXN0b3J5IjpbLTYzNDk1NDAxOSwtOTczMzMwODIxLDEwMz
 M2OTA2NzQsMTIzMzIzNDk2MCwtMTM2NjI2OTI2OSwtMTU0NDI4
 NjIzOSw0MDEyMjY1MTddfQ==
 -->

@@ -59,7 +59,7 @@ f'(x) ≒ ( f(x + h) - f(x) )/h （hは0に近い数）
 ```
 さっきは`lim`を使って限りなく近づけていましたが、大体0の数(10^-10)みたいなものを使って微分結果を近似します。
 
->注：これは順伝播方法と呼ばれる方法で、実際にはより効率が良い逆伝播法と呼ばれる合成関数の微分を利用した計算方法が使われています。ここではわかりやすさのため順伝播法のみを説明しますが、逆伝播法も微分をするという意味では全く同じです。
+>注：これは順伝播法と呼ばれる方法で、実際にはより効率が良い逆伝播法と呼ばれる合成関数の微分を利用した計算方法が使われています。ここではわかりやすさのため順伝播法のみを説明しますが、逆伝播法も微分をするという意味では全く同じです。
 
 損失関数がある程度滑らかなものであったならば、損失関数の微分係数の方向に移動してそこでまた微分係数を計算し...とすればいつか最小値に辿り着きそうです。
 
@@ -208,7 +208,8 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 # 参考
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0NzIwOTgxLDY4MTg1MTE0MywxNjc1MD
-YwMTU2LC05NzMzMzA4MjEsMTAzMzY5MDY3NCwxMjMzMjM0OTYw
-LC0xMzY2MjY5MjY5LC0xNTQ0Mjg2MjM5LDQwMTIyNjUxN119
+eyJoaXN0b3J5IjpbNDI1MDc2OTMwLDUzNDcyMDk4MSw2ODE4NT
+ExNDMsMTY3NTA2MDE1NiwtOTczMzMwODIxLDEwMzM2OTA2NzQs
+MTIzMzIzNDk2MCwtMTM2NjI2OTI2OSwtMTU0NDI4NjIzOSw0MD
+EyMjY1MTddfQ==
 -->

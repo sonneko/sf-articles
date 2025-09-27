@@ -67,7 +67,7 @@ f'(x) ≒ ( f(x + h) - f(x) )/h （hは0に近い数）
 
 損失関数という凸凹な地面を持つ広大な土地を目隠しの人が歩き回って一番深い谷を見つけるイメージです。この時微分というのはその人の足が捉える地面の傾きに相当します。
 
-> 
+> 引用：「ゼロから作るDeep Learning」(斎藤康毅 著)
 
 ただし、同じスピードで歩くとかなり時間がかかってしまうので、傾きが大きければ大きいほど大きく動くことにします。
 ```
@@ -208,7 +208,7 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 他の記事も読んでね。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQxMTIzMjcsMTY3NTA2MDE1NiwtOT
-czMzMwODIxLDEwMzM2OTA2NzQsMTIzMzIzNDk2MCwtMTM2NjI2
-OTI2OSwtMTU0NDI4NjIzOSw0MDEyMjY1MTddfQ==
+eyJoaXN0b3J5IjpbLTQ4NjkwNTg1OSwxNjc1MDYwMTU2LC05Nz
+MzMzA4MjEsMTAzMzY5MDY3NCwxMjMzMjM0OTYwLC0xMzY2MjY5
+MjY5LC0xNTQ0Mjg2MjM5LDQwMTIyNjUxN119
 -->

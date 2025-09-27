@@ -148,8 +148,10 @@ Token_1 Token_2 Token_3 Token_4
 
 これでアルゴリズムの直感的な説明は終わりなのですが、これで本当にあんなAIができてしまうのかと驚嘆した方が多いのではないかと思います。そんな方のためにこの計算がどれほど大変か、そして我々の脳がどれほどすごいかを説明します。
 
-
+先の*Attention機構*の説明では、色々なところにパラメータが登場しました。
+- トークンに対応するベクトル
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTA0OTIwNywtMTM2NjI2OTI2OSwtMT
+eyJoaXN0b3J5IjpbLTQzODEwMDIzNiwtMTM2NjI2OTI2OSwtMT
 U0NDI4NjIzOSw0MDEyMjY1MTddfQ==
 -->

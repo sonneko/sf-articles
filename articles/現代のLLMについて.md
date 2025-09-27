@@ -147,8 +147,10 @@ Token_1 Token_2 Token_3 Token_4
 `Key`と`Query`が*似ている*ベクトルであればあるほど`Value`がターゲットのトークンのベクトルに対して加算されます。トークンの数分`Key`・`Query`・`Value`ベクトルがあるということなので、実際には加算ではなく平均値の足し算になります。
 
 ...という操作を行った後、ベクトルをニューラルネットワークに通すというのを1セットとして、何度もこのセットが繰り返されます。
-これが*Attention機構*です。サブタイトルのネタは
+これが*Attention機構*です。実はサブタイトルの*Attention is all you need*の元ネタはこの計算機構を提案した有名な論文のタイトルです。
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODUzNzU5NDgsLTEzNjYyNjkyNjksLT
+eyJoaXN0b3J5IjpbLTIwNTY1MjQyMjgsLTEzNjYyNjkyNjksLT
 E1NDQyODYyMzksNDAxMjI2NTE3XX0=
 -->

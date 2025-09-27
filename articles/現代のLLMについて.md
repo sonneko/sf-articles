@@ -173,13 +173,14 @@ LLMは人間と明らかに競合しています。
 #### 人間の優位性を考える
 AIがさらに極限まで発展したとしても、人間がAIに勝っているのは以下のことだと思います。
 - 責任を取る能力
-- 
+- AIにはない理性・倫理感？(あったらいいな)
+一つ目についてですが、AIは
 
 
 
 僕がAIに対して絶対に勝っていると誇れるのは、エネルギー消費量の低さです。これまで見てきた通り現代の高精度モデルレベル以上の脳が世の中には大量に転がっているというわけです。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTM5ODcwMCwtOTczMzMwODIxLDEwMz
-M2OTA2NzQsMTIzMzIzNDk2MCwtMTM2NjI2OTI2OSwtMTU0NDI4
-NjIzOSw0MDEyMjY1MTddfQ==
+eyJoaXN0b3J5IjpbOTk2NDA2NDI4LC05NzMzMzA4MjEsMTAzMz
+Y5MDY3NCwxMjMzMjM0OTYwLC0xMzY2MjY5MjY5LC0xNTQ0Mjg2
+MjM5LDQwMTIyNjUxN119
 -->

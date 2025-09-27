@@ -101,6 +101,8 @@ Output = Input * Param_1 * Papram_2 * Param_3 * ... * Param_n
 
 LLMはこれまでの文字を見てその直後に続く言葉を推論します。それを何度も繰り返すことで文章を作っていきます。イメージはスマホなどの予測変換のレベルの高い版のようなものです。一番最初に来た予測変換を連打していくとそれっぽい文章ができます。（試してみるとわかりますが大抵絵文字で収束します。）
 
+>最新のモデルは並列的に生成するそうです。難しくてよくわかりません。
+
 ```
 昨日は雨だったけど、今日..
 →「は」を予想する
@@ -208,8 +210,8 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 # 参考
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI1MDc2OTMwLDUzNDcyMDk4MSw2ODE4NT
-ExNDMsMTY3NTA2MDE1NiwtOTczMzMwODIxLDEwMzM2OTA2NzQs
-MTIzMzIzNDk2MCwtMTM2NjI2OTI2OSwtMTU0NDI4NjIzOSw0MD
-EyMjY1MTddfQ==
+eyJoaXN0b3J5IjpbLTE2NDQ2NTQxODMsNTM0NzIwOTgxLDY4MT
+g1MTE0MywxNjc1MDYwMTU2LC05NzMzMzA4MjEsMTAzMzY5MDY3
+NCwxMjMzMjM0OTYwLC0xMzY2MjY5MjY5LC0xNTQ0Mjg2MjM5LD
+QwMTIyNjUxN119
 -->

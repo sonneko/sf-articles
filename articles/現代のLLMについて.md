@@ -185,13 +185,13 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 
 この(僕的な)結論を裏付けしていきます。
 
-そもそも人間とAIの違いって何でしょう？
+そもそも人間とAIのメカニズム上の違いって何でしょう？ニューラルネットワークは脳のニューロンを真似たものであると説明しましたが、
 
 
 
 僕がAIに対して絶対に勝っていると誇れるのは、エネルギー消費量の低さです。これまで見てきた通り現代の高精度モデルレベル以上の脳が世の中には大量に転がっているというわけです。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzgwNzgyMDEsLTk3MzMzMDgyMSwxMD
-MzNjkwNjc0LDEyMzMyMzQ5NjAsLTEzNjYyNjkyNjksLTE1NDQy
-ODYyMzksNDAxMjI2NTE3XX0=
+eyJoaXN0b3J5IjpbMTM2OTI2Mjc1MiwtOTczMzMwODIxLDEwMz
+M2OTA2NzQsMTIzMzIzNDk2MCwtMTM2NjI2OTI2OSwtMTU0NDI4
+NjIzOSw0MDEyMjY1MTddfQ==
 -->

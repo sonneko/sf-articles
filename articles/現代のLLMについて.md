@@ -94,7 +94,7 @@ Output = Input * Param_1 * Papram_2 * Param_3 * ... * Param_n
 
 具体的には重みつき和を複数のノードで同時に計算していくようなものになっていますが、あまり面白くないので取り上げません。
 
-損失関数の計算にはRMSEが使われることが多いです。また毎度のノードを非線形な関数でフィルターすることで非線形な要素を作り出し微分で最適な変更方向を見つけやすいようになっています。これによってそれ自体では線形なってしまうニューラルネットワークに非線形な要素が加わりその分の情報をモデルが中に蓄えることができるようになります。具体的にはシグモイド関数などが使われます。
+毎度のノードを非線形な関数でフィルター（活性化関数）することで非線形な要素を作り出し微分で最適な変更方向を見つけやすいようになっています。これによってそれ自体では線形なってしまうニューラルネットワークに非線形な要素が加わりその分の情報をモデルが中に蓄えることができるようになります。具体的にはシグモイド関数などが使われます。
 
 ## Transformer
 ここではLLMに実際に組み込まれている概念を説明していきます。
@@ -208,7 +208,8 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 # 参考
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxMTQ3OTAzLDY4MTg1MTE0MywxNjc1MD
-YwMTU2LC05NzMzMzA4MjEsMTAzMzY5MDY3NCwxMjMzMjM0OTYw
-LC0xMzY2MjY5MjY5LC0xNTQ0Mjg2MjM5LDQwMTIyNjUxN119
+eyJoaXN0b3J5IjpbLTc3ODUyNTI2OSw2ODE4NTExNDMsMTY3NT
+A2MDE1NiwtOTczMzMwODIxLDEwMzM2OTA2NzQsMTIzMzIzNDk2
+MCwtMTM2NjI2OTI2OSwtMTU0NDI4NjIzOSw0MDEyMjY1MTddfQ
+==
 -->

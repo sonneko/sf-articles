@@ -199,9 +199,11 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 
 >脱線ですがチューリングさんは計算機科学という分野の研究者の方で「コンピュータ科学の父」や「人工知能の父」と呼ばれています。僕の推しの一人です。以上蛇足でした。
 
-長々と自論を語ってしまいましたが、納得できました
+結論として人間は何をすればいいかというと、AIと人間が実は
+
+長々と自論を語ってしまいました。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTQ1MjE2MzgsLTk3MzMzMDgyMSwxMD
+eyJoaXN0b3J5IjpbLTE5MzQ2MDYwODcsLTk3MzMzMDgyMSwxMD
 MzNjkwNjc0LDEyMzMyMzQ5NjAsLTEzNjYyNjkyNjksLTE1NDQy
 ODYyMzksNDAxMjI2NTE3XX0=
 -->

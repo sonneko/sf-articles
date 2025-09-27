@@ -160,10 +160,12 @@ Token_1 Token_2 Token_3 Token_4
 これらのパラメータの数の合計は、現代のモデルでは数千億個あります。それらのパラメータを調節するには、数千億次元の遥かなる海を漂う必要があるというわけです。その果てしない学習のステップでは数千台の専用の高性能な電子チップが数カ月動き続ける必要があります。冷却水の供給のための電力も含めると、数万世帯の1日の消費電力に相当すると言われています。
 
 ## 人間がAIに勝る点
+
 最近のLLM特に僕の愛用する`Gemini2.5Pro`というモデルでは数学・プログラミングなど複雑で難しいタスクに対しても高い精度のレスポンスを返してきます。
-実際少なくとも僕よりは賢いと思います。（ここでの*賢い*とは思考能力ではなく問題解決能力）
+実際少なくとも僕よりは賢いと思います。ただ、ここでの*賢い*とは思考能力ではなく問題解決能力のことで、僕に彼らレベルの知識があれば勝つことができるのかもしれません。
+僕がAIに対して絶対に勝っていると誇れるのは、エネルギー消費量の低さです。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5OTk5NzUwOSwtOTczMzMwODIxLDEwMz
-M2OTA2NzQsMTIzMzIzNDk2MCwtMTM2NjI2OTI2OSwtMTU0NDI4
-NjIzOSw0MDEyMjY1MTddfQ==
+eyJoaXN0b3J5IjpbLTE3MzM1MzI5OTQsLTk3MzMzMDgyMSwxMD
+MzNjkwNjc0LDEyMzMyMzQ5NjAsLTEzNjYyNjkyNjksLTE1NDQy
+ODYyMzksNDAxMjI2NTE3XX0=
 -->

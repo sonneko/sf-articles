@@ -53,7 +53,8 @@ AI開発者の目標はこの損失関数の最小値を求めることに変わ
 ```
 f'(x) -> ( f(x + h) - f(x) )/h		( h -> 0)
 ```
-となります。流石にこの非常に複雑だと思われる損失関数を直接解析的に微分するのはハードなので数値微分というものを使います。
+となります。今回は実際には使われていないものの、単純でわかりやすい数値微分という方法で説明します。
+
 ```
 f'(x) ≒ ( f(x + h) - f(x) )/h （hは0に近い数）
 ```
@@ -210,8 +211,8 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 # 参考
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwNzU4NTExLDUzNDcyMDk4MSw2ODE4NT
-ExNDMsMTY3NTA2MDE1NiwtOTczMzMwODIxLDEwMzM2OTA2NzQs
-MTIzMzIzNDk2MCwtMTM2NjI2OTI2OSwtMTU0NDI4NjIzOSw0MD
-EyMjY1MTddfQ==
+eyJoaXN0b3J5IjpbLTkwNzIyMTYwOSw1MzQ3MjA5ODEsNjgxOD
+UxMTQzLDE2NzUwNjAxNTYsLTk3MzMzMDgyMSwxMDMzNjkwNjc0
+LDEyMzMyMzQ5NjAsLTEzNjYyNjkyNjksLTE1NDQyODYyMzksND
+AxMjI2NTE3XX0=
 -->

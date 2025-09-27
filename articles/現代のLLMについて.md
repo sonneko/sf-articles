@@ -205,11 +205,9 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 長々と自論を語ってしまいましたが、以上です。
 他の記事も読んでね。
 
-# 参考
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDk5MDI0MSw1MzQ3MjA5ODEsNjgxOD
-UxMTQzLDE2NzUwNjAxNTYsLTk3MzMzMDgyMSwxMDMzNjkwNjc0
-LDEyMzMyMzQ5NjAsLTEzNjYyNjkyNjksLTE1NDQyODYyMzksND
-AxMjI2NTE3XX0=
+eyJoaXN0b3J5IjpbNTEwOTE5MDA5LDUzNDcyMDk4MSw2ODE4NT
+ExNDMsMTY3NTA2MDE1NiwtOTczMzMwODIxLDEwMzM2OTA2NzQs
+MTIzMzIzNDk2MCwtMTM2NjI2OTI2OSwtMTU0NDI4NjIzOSw0MD
+EyMjY1MTddfQ==
 -->

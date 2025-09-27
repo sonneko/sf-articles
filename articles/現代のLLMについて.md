@@ -167,7 +167,7 @@ Token_1 Token_2 Token_3 Token_4
 
 これらのパラメータの数の合計は、現代のモデルでは数千億個あります。それらのパラメータを調節するには、数千億次元の遥かなる海を漂う必要があるというわけです。その果てしない学習のステップでは数千台の専用の高性能な電子チップが数カ月動き続ける必要があります。冷却水の供給のための電力も含めると、数万世帯の1日の消費電力に相当すると言われています。
 
-社会に省エネやAI導入というのは進めるべきものだという考え方が流れていますが、実はこれらはかなり矛盾しています。ただ低エネルギーでのLLMの運用も非常に活発に研究されていのも事実です。
+社会に省エネやAI導入というのは進めるべきものだという考え方が流れていますが、実はこれらはかなり矛盾しています。ただ低エネルギーでのLLMの運用も非常に活発に研究されているのも事実です。
 
 そう考えると、現代の高精度モデルレベル以上の脳が世の中には大量に転がっているというわけです。これを理性なしで実現した遺伝的な自然淘汰と年月の力はすごいですね。
 
@@ -210,7 +210,7 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 # 参考
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1Nzk4NTgwMSw1MzQ3MjA5ODEsNjgxOD
+eyJoaXN0b3J5IjpbMTQzMjY5ODY2OCw1MzQ3MjA5ODEsNjgxOD
 UxMTQzLDE2NzUwNjAxNTYsLTk3MzMzMDgyMSwxMDMzNjkwNjc0
 LDEyMzMyMzQ5NjAsLTEzNjYyNjkyNjksLTE1NDQyODYyMzksND
 AxMjI2NTE3XX0=

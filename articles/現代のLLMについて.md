@@ -1,3 +1,6 @@
+
+
+
 # 現代のLLMについて〜*Attention Is All You Need!*〜
 
 LLMとは、Large Language Modelの略で日本語では大規模言語モデルと言われます。具体的にはchatGPTやGeminiやClaudeなどに代表されるAIのことを言います。
@@ -204,7 +207,7 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 長々と自論を語ってしまいましたが、以上です。
 他の記事も読んでね。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTA2MDE1NiwtOTczMzMwODIxLDEwMz
-M2OTA2NzQsMTIzMzIzNDk2MCwtMTM2NjI2OTI2OSwtMTU0NDI4
-NjIzOSw0MDEyMjY1MTddfQ==
+eyJoaXN0b3J5IjpbLTE1MDkwNTA2ODIsMTY3NTA2MDE1NiwtOT
+czMzMwODIxLDEwMzM2OTA2NzQsMTIzMzIzNDk2MCwtMTM2NjI2
+OTI2OSwtMTU0NDI4NjIzOSw0MDEyMjY1MTddfQ==
 -->

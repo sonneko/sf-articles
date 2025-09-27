@@ -153,7 +153,9 @@ Token_1 Token_2 Token_3 Token_4
 - `Key`行列
 - `Query`行列
 - `Value`行列
+- ニューラルネットワークのパラメータ
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NjYwNDUsLTEzNjYyNjkyNjksLTE1ND
-QyODYyMzksNDAxMjI2NTE3XX0=
+eyJoaXN0b3J5IjpbMjA2NjYxMTE2MCwtMTM2NjI2OTI2OSwtMT
+U0NDI4NjIzOSw0MDEyMjY1MTddfQ==
 -->

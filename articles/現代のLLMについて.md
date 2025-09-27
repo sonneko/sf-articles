@@ -150,7 +150,9 @@ Token_1 Token_2 Token_3 Token_4
 これが*Attention機構*です。実はサブタイトルの*Attention Is All You Need*の元ネタはこの計算機構を世界で初めて提案した有名な論文のタイトルです。
 
 [元ネタの論文](https://arxiv.org/pdf/1706.03762)
+
+ちなみにですがこの論文のヘッダを見るとわかりますが、この論文は*Google*のAI研究者によるものです。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwOTI5MjE3LC0xMzY2MjY5MjY5LC0xNT
+eyJoaXN0b3J5IjpbMzkzODcwMTM4LC0xMzY2MjY5MjY5LC0xNT
 Q0Mjg2MjM5LDQwMTIyNjUxN119
 -->

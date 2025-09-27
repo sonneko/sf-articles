@@ -1,4 +1,4 @@
-# 現代のLLMについて〜Attention is all you need!〜
+# 現代のLLMについて〜*Attention Is All You Need!*〜
 
 LLMとは、Large Language Modelの略で日本語では大規模言語モデルと言われます。具体的にはchatGPTやGeminiやClaudeなどに代表されるAIのことを言います。
 最近突然LLMは登場しものすごい勢いで進化しています。その裏には*Attention*機構と呼ばれるAIモデルにおける革新的なアイデアの登場があります。
@@ -147,10 +147,10 @@ Token_1 Token_2 Token_3 Token_4
 `Key`と`Query`が*似ている*ベクトルであればあるほど`Value`がターゲットのトークンのベクトルに対して加算されます。トークンの数分`Key`・`Query`・`Value`ベクトルがあるということなので、実際には加算ではなく平均値の足し算になります。
 
 ...という操作を行った後、ベクトルをニューラルネットワークに通すというのを1セットとして、何度もこのセットが繰り返されます。
-これが*Attention機構*です。実はサブタイトルの*Attention is all you need*の元ネタはこの計算機構を提案した有名な論文のタイトルです。
+これが*Attention機構*です。実はサブタイトルの*Attention Is All You Need*の元ネタはこの計算機構を世界で初めて提案した有名な論文のタイトルです。
 
-
+[元ネタの論文](https://arxiv.org/pdf/1706.03762)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTY1MjQyMjgsLTEzNjYyNjkyNjksLT
-E1NDQyODYyMzksNDAxMjI2NTE3XX0=
+eyJoaXN0b3J5IjpbNDUwOTI5MjE3LC0xMzY2MjY5MjY5LC0xNT
+Q0Mjg2MjM5LDQwMTIyNjUxN119
 -->

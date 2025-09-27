@@ -8,7 +8,7 @@ LLMとは、Large Language Modelの略で日本語では大規模言語モデル
 
 この記事では前提知識として一般的なAIの学習の方法である勾配降下法から始まり具体的なイメージを掴んでもらうためにニューラルネットワークを説明します。その後いよいよLLMの内部構造・Attention機構とはつまるところ何なのかを説明していきます。それらを踏まえて最後にAIについて自論を話します。
 
-数学的な知識がなくても現代のブラックボックスの筆頭であるAIを感覚的に理解してもらえるよう作っておりますので、最後まで読んでくれたら嬉しいです。
+現代のブラックボックスの筆頭であるAIを感覚的に理解してもらえるよう作っておりますので、最後まで読んでくれたら嬉しいです。
 
 ## AIとは何？
 AIは*Artificial Intelligence*の略で日本語で言うと*人工知能*と言う意味です。その名の通り人工的に作った知能のことを指します。
@@ -196,7 +196,7 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 そうしたら人間とAIって区別できません。図らずもAIとは何かの定義にチューリング・テストというものがあります。
 
 >We now ask the question, "What will happen when a machine takes the part of A in this game?" Will the interrogator decide wrongly as often when the game is played like this as he does when the game is played between a man and a woman? These questions replace our original, "Can machines think?"
->COMPUTING MACHINERY AND INTELLIGENCE (A. M. Turing)
+>引用：COMPUTING MACHINERY AND INTELLIGENCE (A. M. Turing)
 
 >脱線ですがチューリングさんは計算機科学という分野の研究者の方で「コンピュータ科学の父」や「人工知能の父」と呼ばれています。僕の推しの一人です。以上蛇足でした。
 
@@ -208,7 +208,7 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 # 参考
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NjIzNDIyNCw2ODE4NTExNDMsMTY3NT
+eyJoaXN0b3J5IjpbLTg5Mzk2MzA0NSw2ODE4NTExNDMsMTY3NT
 A2MDE1NiwtOTczMzMwODIxLDEwMzM2OTA2NzQsMTIzMzIzNDk2
 MCwtMTM2NjI2OTI2OSwtMTU0NDI4NjIzOSw0MDEyMjY1MTddfQ
 ==

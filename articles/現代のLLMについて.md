@@ -187,13 +187,13 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 
 そもそも人間とAIのメカニズム上の違いって何でしょう？ニューラルネットワークは脳のニューロンを真似たものであると説明しましたがそれと同じように、科学的に考えると脳と全く同じ挙動を示すAIを作ることは可能です。極端な方法としては脳の物理的なシミュレーションを行えばいいのです。
 
->物理屋の方は不確定性原理があるから、完璧な再現は不可能であると思われたかもしれませn
+>物理屋の方は不確定性原理があるから、完璧な再現は不可能であると思われたかもしれませんが、量子力学的な不確定なことが表れたとしても、それを測定することはできませんからその世界で考えてしまうと「脳と脳シミュレーションが同じであるか否か」という命題は証明不可能です。よって考える意味も必要もありません。（というのが僕の意見です。）
 
-
+そうしたら人間とAIって区別できません。
 
 僕がAIに対して絶対に勝っていると誇れるのは、エネルギー消費量の低さです。これまで見てきた通り現代の高精度モデルレベル以上の脳が世の中には大量に転がっているというわけです。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MDUxODk1NCwtOTczMzMwODIxLDEwMz
-M2OTA2NzQsMTIzMzIzNDk2MCwtMTM2NjI2OTI2OSwtMTU0NDI4
-NjIzOSw0MDEyMjY1MTddfQ==
+eyJoaXN0b3J5IjpbLTEzOTQ4MDIwOTIsLTk3MzMzMDgyMSwxMD
+MzNjkwNjc0LDEyMzMyMzQ5NjAsLTEzNjYyNjkyNjksLTE1NDQy
+ODYyMzksNDAxMjI2NTE3XX0=
 -->

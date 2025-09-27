@@ -93,14 +93,6 @@ Output = Input * Param_1 * Papram_2 * Param_3 * ... * Param_n
 ## Transformer
 ここではLLMに実際に組み込まれている概念を説明していきます。
 
-Transformerを解説する前に、Transformer以前の自然言語処理の技術について解説していきます。自然言語処理とは、英語・日本語など人間が使う言葉を機械を持って調べるという分野です。
-
-自然言語処理では、主に4つのステップがあります。
-- 形態素解析
-- 
-
-// TODO:  insert
-
 LLMはこれまでの文字を見てその直後に続く言葉を推論します。それを何度も繰り返すことで文章を作っていきます。イメージはスマホなどの予測変換のレベルの高い版のようなものです。一番最初に来た予測変換を連打していくとそれっぽい文章ができます。（試してみるとわかりますが大抵絵文字で収束します。）
 
 ```
@@ -154,7 +146,8 @@ Token_1 Token_2 Token_3 Token_4
 >ちなみにですがこの論文のヘッダを見るとわかりますが、この論文は*Google*のAI研究者によるものです。
 商業サービスという面では*OpenAI*による*chatGPT*に抜かれていますが、技術的には*Google*が先なんです。~~*Google*恐ろしや~~
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNDEyMTI0MywtMTM2NjI2OTI2OSwtMT
-U0NDI4NjIzOSw0MDEyMjY1MTddfQ==
+eyJoaXN0b3J5IjpbODQ3MjQxMzEyLC0xMzY2MjY5MjY5LC0xNT
+Q0Mjg2MjM5LDQwMTIyNjUxN119
 -->

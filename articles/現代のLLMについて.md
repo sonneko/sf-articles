@@ -195,8 +195,8 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 
 そうしたら人間とAIって区別できません。図らずもAIとは何かの定義にチューリング・テストというものがあります。
 
->人間の判定者が、一人の（別の）人間と一機の機械に対して通常の言語での会話を行う。このとき人間も機械も人間らしく見えるように対応するのである。これらの参加者はそれぞれ隔離されている。判定者は、機械の言葉を音声に変換する能力に左右されることなく、その知性を判定するために、会話はたとえばキーボードとディスプレイのみといった、文字のみでの交信に制限しておく[[注釈 1]](https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%86%E3%82%B9%E3%83%88#cite_note-1)。判定者が、機械と人間との確実な区別ができなかった場合、この機械はテストに合格したことになる。
-> 引用：https://ja.wikipedia.org/wiki/チューリング・テスト
+>We now ask the question, "What will happen when a machine takes the part of A in this game?" Will the interrogator decide wrongly as often when the game is played like this as he does when the game is played between a man and a woman? These questions replace our original, "Can machines think?"
+>COMPUTING MACHINERY AND INTELLIGENCE (A. M. Turing)
 
 >脱線ですがチューリングさんは計算機科学という分野の研究者の方で「コンピュータ科学の父」や「人工知能の父」と呼ばれています。僕の推しの一人です。以上蛇足でした。
 
@@ -208,7 +208,8 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 # 参考
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgxODUxMTQzLDE2NzUwNjAxNTYsLTk3Mz
-MzMDgyMSwxMDMzNjkwNjc0LDEyMzMyMzQ5NjAsLTEzNjYyNjky
-NjksLTE1NDQyODYyMzksNDAxMjI2NTE3XX0=
+eyJoaXN0b3J5IjpbLTM1NjIzNDIyNCw2ODE4NTExNDMsMTY3NT
+A2MDE1NiwtOTczMzMwODIxLDEwMzM2OTA2NzQsMTIzMzIzNDk2
+MCwtMTM2NjI2OTI2OSwtMTU0NDI4NjIzOSw0MDEyMjY1MTddfQ
+==
 -->

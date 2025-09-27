@@ -56,6 +56,8 @@ f'(x) ≒ ( f(x + h) - f(x) )/h （hは0に近い数）
 ```
 さっきは`lim`を使って限りなく近づけていましたが、大体0の数(10^-10)みたいなものを使って微分結果を近似します。
 
+>注：これは順伝播方法と呼ばれる方法で、実際にはより効率が良い逆電波法と呼ばれる
+
 損失関数がある程度滑らかなものであったならば、損失関数の微分係数の方向に移動してそこでまた微分係数を計算し...とすればいつか最小値に辿り着きそうです。
 
 数学の言葉を使わずに説明するなら、「少し*Parameter*をいじってみてモデルの精度がどう変わるかを見ることによってどちらの*方向*に*Parameter*をいじれば精度が良くなるかを特定する。」ということを繰り返しやっています。
@@ -156,6 +158,6 @@ Token_1 Token_2 Token_3 Token_4
 - ニューラルネットワークのパラメータ
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjYxMTE2MCwtMTM2NjI2OTI2OSwtMT
+eyJoaXN0b3J5IjpbMTUwMzYzODgxOSwtMTM2NjI2OTI2OSwtMT
 U0NDI4NjIzOSw0MDEyMjY1MTddfQ==
 -->

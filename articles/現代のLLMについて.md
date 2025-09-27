@@ -65,9 +65,7 @@ f'(x) ≒ ( f(x + h) - f(x) )/h （hは0に近い数）
 
 数学の言葉を使わずに説明するなら、「少し*Parameter*をいじってみてモデルの精度がどう変わるかを見ることによってどちらの*方向*に*Parameter*をいじれば精度が良くなるかを特定する。」ということを繰り返しやっています。
 
-損失関数という凸凹な地面を持つ広大な土地を目隠しの人が歩き回って一番深い谷を見つけるイメージです。この時微分というのはその人の足が捉える地面の傾きに相当します。
-
-> 最適な
+> 最適なパラメータを探索するとき、私たちの置かれている状況は、この冒険家と同じ暗闇の世界です。広大で複雑な地形を、地図もなく、目隠しをして「深き場所」を探さなければなりません。
 
 > 引用：「ゼロから作るDeep Learning」(斎藤康毅 著)
 
@@ -210,7 +208,7 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 他の記事も読んでね。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjk4NjQ3MzgsMTY3NTA2MDE1NiwtOT
-czMzMwODIxLDEwMzM2OTA2NzQsMTIzMzIzNDk2MCwtMTM2NjI2
-OTI2OSwtMTU0NDI4NjIzOSw0MDEyMjY1MTddfQ==
+eyJoaXN0b3J5IjpbODI2MzA1MTgxLDE2NzUwNjAxNTYsLTk3Mz
+MzMDgyMSwxMDMzNjkwNjc0LDEyMzMyMzQ5NjAsLTEzNjYyNjky
+NjksLTE1NDQyODYyMzksNDAxMjI2NTE3XX0=
 -->

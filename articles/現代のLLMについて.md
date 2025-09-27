@@ -164,13 +164,15 @@ Token_1 Token_2 Token_3 Token_4
 社会に省エネやAI導入というのは進めるべきものだという考え方が流れていますが、実はこれらはかなり矛盾しています。ただ低エネルギーでのLLMの運用も非常に活発に研究されていのも事実です。
 
 ## 自論
-LLM
-
+LLMは人間と明らかに競合しています。
 最近のLLM(特に僕の愛用する`Gemini2.5Pro`というモデルなど)では数学・プログラミングなど複雑で難しいタスクに対しても高い精度のレスポンスを返してきます。
-実際少なくとも僕よりは賢いと思います。ただ、ここでの*賢い*とは思考能力ではなく問題解決能力のことで、僕に彼らレベルの知識があれば勝つことができるのかもしれません。
+実際少なくとも僕よりは賢いと思います。ただ、ここでの*賢い*とは思考能力ではなく問題解決能力のことで、僕に彼らレベルの知識があれば勝つことができるのかもしれません。しかし人件費という意味では遥かにAIの方が有利ですしAIには人権なんてものがないですからローリスクです。
+
+
+
 僕がAIに対して絶対に勝っていると誇れるのは、エネルギー消費量の低さです。これまで見てきた通り現代の高精度モデルレベル以上の脳が世の中には大量に転がっているというわけです。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTQ0NjcwNiwtOTczMzMwODIxLDEwMz
-M2OTA2NzQsMTIzMzIzNDk2MCwtMTM2NjI2OTI2OSwtMTU0NDI4
-NjIzOSw0MDEyMjY1MTddfQ==
+eyJoaXN0b3J5IjpbLTEwMTQ0NjA0OTUsLTk3MzMzMDgyMSwxMD
+MzNjkwNjc0LDEyMzMyMzQ5NjAsLTEzNjYyNjkyNjksLTE1NDQy
+ODYyMzksNDAxMjI2NTE3XX0=
 -->

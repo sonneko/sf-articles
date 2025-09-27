@@ -151,11 +151,10 @@ Token_1 Token_2 Token_3 Token_4
 
 [元ネタの論文](https://arxiv.org/pdf/1706.03762)
 
-ちなみにですがこの論文のヘッダを見るとわかりますが、この論文は*Google*のAI研究者によるものです。
-商業サービスという面では*OpenAI*による*chatGPT*に抜かれていますが、技術的には*Google*が先なんです。-*Google*恐ろしや-
-
+>ちなみにですがこの論文のヘッダを見るとわかりますが、この論文は*Google*のAI研究者によるものです。
+商業サービスという面では*OpenAI*による*chatGPT*に抜かれていますが、技術的には*Google*が先なんです。~~*Google*恐ろしや~~
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NDk3ODgwMSwtMTM2NjI2OTI2OSwtMT
+eyJoaXN0b3J5IjpbLTgyNDEyMTI0MywtMTM2NjI2OTI2OSwtMT
 U0NDI4NjIzOSw0MDEyMjY1MTddfQ==
 -->

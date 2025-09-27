@@ -53,14 +53,13 @@ AI開発者の目標はこの損失関数の最小値を求めることに変わ
 ```
 f'(x) -> ( f(x + h) - f(x) )/h		( h -> 0)
 ```
-となります。今回は実際には使われていないものの、単純でわかりやすい数値微分という方法で説明します。
-
+となります。今回は実際には使われていないものの、単純でわかりやすい数値微分を使った順伝播法という方法で説明します。
 ```
 f'(x) ≒ ( f(x + h) - f(x) )/h （hは0に近い数）
 ```
 さっきは`lim`を使って限りなく近づけていましたが、大体0の数(10^-10)みたいなものを使って微分結果を近似します。
 
->注：これは順伝播法と呼ばれる方法で、実際にはより効率が良い逆伝播法と呼ばれる合成関数の微分を利用した計算方法が使われています。ここではわかりやすさのため順伝播法のみを説明しますが、逆伝播法も微分をするという意味では全く同じです。
+>注：実際にはより効率が良い逆伝播法と呼ばれる合成関数の微分を利用した計算方法が使われています。ここではわかりやすさのため順伝播法のみを説明しますが、逆伝播法も微分をするという意味では全く同じです。
 
 損失関数がある程度滑らかなものであったならば、損失関数の微分係数の方向に移動してそこでまた微分係数を計算し...とすればいつか最小値に辿り着きそうです。
 
@@ -211,8 +210,8 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 # 参考
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNzIyMTYwOSw1MzQ3MjA5ODEsNjgxOD
-UxMTQzLDE2NzUwNjAxNTYsLTk3MzMzMDgyMSwxMDMzNjkwNjc0
-LDEyMzMyMzQ5NjAsLTEzNjYyNjkyNjksLTE1NDQyODYyMzksND
-AxMjI2NTE3XX0=
+eyJoaXN0b3J5IjpbODM3MTY1NDEzLDUzNDcyMDk4MSw2ODE4NT
+ExNDMsMTY3NTA2MDE1NiwtOTczMzMwODIxLDEwMzM2OTA2NzQs
+MTIzMzIzNDk2MCwtMTM2NjI2OTI2OSwtMTU0NDI4NjIzOSw0MD
+EyMjY1MTddfQ==
 -->

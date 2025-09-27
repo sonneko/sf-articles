@@ -157,7 +157,8 @@ Token_1 Token_2 Token_3 Token_4
 - `Value`行列
 - ニューラルネットワークのパラメータ
 
+これらのパラメータの数の合計は、現代のモデルでは数千億個あります。それらのパラメータを調節するには、数千億次元の
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzIzNDk2MCwtMTM2NjI2OTI2OSwtMT
-U0NDI4NjIzOSw0MDEyMjY1MTddfQ==
+eyJoaXN0b3J5IjpbMTA1NTM4Mjg1MSwxMjMzMjM0OTYwLC0xMz
+Y2MjY5MjY5LC0xNTQ0Mjg2MjM5LDQwMTIyNjUxN119
 -->

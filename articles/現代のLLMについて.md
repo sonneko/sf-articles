@@ -157,8 +157,8 @@ Token_1 Token_2 Token_3 Token_4
 - `Value`行列
 - ニューラルネットワークのパラメータ
 
-これらのパラメータの数の合計は、現代のモデルでは数千億個あります。それらのパラメータを調節するには、数千億次元の
+これらのパラメータの数の合計は、現代のモデルでは数千億個あります。それらのパラメータを調節するには、数千億次元の遥かなる海を漂う必要があるというわけです。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTM4Mjg1MSwxMjMzMjM0OTYwLC0xMz
+eyJoaXN0b3J5IjpbMTY1MjExMzI0MiwxMjMzMjM0OTYwLC0xMz
 Y2MjY5MjY5LC0xNTQ0Mjg2MjM5LDQwMTIyNjUxN119
 -->

@@ -165,9 +165,9 @@ Token_1 Token_2 Token_3 Token_4
 
 最近のLLM(特に僕の愛用する`Gemini2.5Pro`というモデルなど)では数学・プログラミングなど複雑で難しいタスクに対しても高い精度のレスポンスを返してきます。
 実際少なくとも僕よりは賢いと思います。ただ、ここでの*賢い*とは思考能力ではなく問題解決能力のことで、僕に彼らレベルの知識があれば勝つことができるのかもしれません。
-僕がAIに対して絶対に勝っていると誇れるのは、エネルギー消費量の低さです。人間の脳は20W相当を消費しますが、LLMは
+僕がAIに対して絶対に勝っていると誇れるのは、エネルギー消費量の低さです。これまで見てきた通り現代の高精度モデルレベル以上の脳が世の中には大量に転がっているというわけです。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NDU5MDU4LC05NzMzMzA4MjEsMTAzMz
-Y5MDY3NCwxMjMzMjM0OTYwLC0xMzY2MjY5MjY5LC0xNTQ0Mjg2
-MjM5LDQwMTIyNjUxN119
+eyJoaXN0b3J5IjpbLTEzOTA0OTQ2NDcsLTk3MzMzMDgyMSwxMD
+MzNjkwNjc0LDEyMzMyMzQ5NjAsLTEzNjYyNjkyNjksLTE1NDQy
+ODYyMzksNDAxMjI2NTE3XX0=
 -->

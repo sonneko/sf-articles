@@ -157,8 +157,8 @@ Token_1 Token_2 Token_3 Token_4
 - `Value`行列
 - ニューラルネットワークのパラメータ
 
-これらのパラメータの数の合計は、現代のモデルでは数千億個あります。それらのパラメータを調節するには、数千億次元の遥かなる海を漂う必要があるというわけです。その果てしない学習のステップでは数千台の専用の高性能な電子チップが数カ月動き続ける必要があります。電気代は
+これらのパラメータの数の合計は、現代のモデルでは数千億個あります。それらのパラメータを調節するには、数千億次元の遥かなる海を漂う必要があるというわけです。その果てしない学習のステップでは数千台の専用の高性能な電子チップが数カ月動き続ける必要があります。消費電力は街一つ分と言われています。冷却水の供給のための電力も含めると
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc2OTk4MjUwLDEyMzMyMzQ5NjAsLTEzNj
-YyNjkyNjksLTE1NDQyODYyMzksNDAxMjI2NTE3XX0=
+eyJoaXN0b3J5IjpbLTI1MjgyNjI3OCwxMjMzMjM0OTYwLC0xMz
+Y2MjY5MjY5LC0xNTQ0Mjg2MjM5LDQwMTIyNjUxN119
 -->

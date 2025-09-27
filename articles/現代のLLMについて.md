@@ -163,7 +163,7 @@ Token_1 Token_2 Token_3 Token_4
 
 社会に省エネやAI導入というのは進めるべきものだという考え方が流れていますが、実はこれらはかなり矛盾しています。ただ低エネルギーでのLLMの運用も非常に活発に研究されていのも事実です。
 
-
+そう考えると、現代の高精度モデルレベル以上の脳が世の中には大量に転がっているというわけです。これを理性なしで実現した遺伝的な自然淘汰と年月の力はすごいですね。
 
 ## ちょっとした自論
 
@@ -200,7 +200,7 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 >脱線ですがチューリングさんは計算機科学という分野の研究者の方で「コンピュータ科学の父」や「人工知能の父」と呼ばれています。僕の推しの一人です。以上蛇足でした。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc4MDcyMDAyLC05NzMzMzA4MjEsMTAzMz
-Y5MDY3NCwxMjMzMjM0OTYwLC0xMzY2MjY5MjY5LC0xNTQ0Mjg2
-MjM5LDQwMTIyNjUxN119
+eyJoaXN0b3J5IjpbLTEwNTE2MTgzMjEsLTk3MzMzMDgyMSwxMD
+MzNjkwNjc0LDEyMzMyMzQ5NjAsLTEzNjYyNjkyNjksLTE1NDQy
+ODYyMzksNDAxMjI2NTE3XX0=
 -->

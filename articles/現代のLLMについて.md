@@ -66,7 +66,8 @@ f'(x) ≒ ( f(x + h) - f(x) )/h （hは0に近い数）
 > 引用：「ゼロから作るDeep Learning」(斎藤康毅 著)
 
 
-画像は[https://dev.to/ashwinscode/deep-learning-library-from-scratch-3-more-optimisers-4l23](https://dev.to/ashwinscode/deep-learning-library-from-scratch-3-more-optimisers-4l23])より引用。
+
+画像は[# Deep Learning Library From Scratch 3: More optimisers: https://dev.to/ashwinscode/deep-learning-library-from-scratch-3-more-optimisers-4l23](https://dev.to/ashwinscode/deep-learning-library-from-scratch-3-more-optimisers-4l23])より引用しました。
 
 ただし、同じスピードで動くとかなり時間がかかってしまうので、傾きが大きければ大きいほど大きく動くことにします。
 ```
@@ -206,8 +207,8 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 他の記事も読んでね。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzIyMDQxODgsNTEwOTE5MDA5LDUzND
-cyMDk4MSw2ODE4NTExNDMsMTY3NTA2MDE1NiwtOTczMzMwODIx
-LDEwMzM2OTA2NzQsMTIzMzIzNDk2MCwtMTM2NjI2OTI2OSwtMT
-U0NDI4NjIzOSw0MDEyMjY1MTddfQ==
+eyJoaXN0b3J5IjpbMTYyMTQ3ODY1Miw1MTA5MTkwMDksNTM0Nz
+IwOTgxLDY4MTg1MTE0MywxNjc1MDYwMTU2LC05NzMzMzA4MjEs
+MTAzMzY5MDY3NCwxMjMzMjM0OTYwLC0xMzY2MjY5MjY5LC0xNT
+Q0Mjg2MjM5LDQwMTIyNjUxN119
 -->

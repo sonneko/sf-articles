@@ -166,9 +166,6 @@ SoC原則(関心の分離)を厳守してドメインについて分離して開
 	ハンバーグ：フォーク
 ```
 
-## 命名規則
-
-
 
 # 参考文献・謝辞
 「良いコードと悪いコードで学ぶ設計入門」（仙傷大也さん）
@@ -178,5 +175,6 @@ https://www.sirogohan.com/recipe/hanba-gu/：「家庭的な基本のハンバ�
 Claude・Gemini：一部のどうしても思いつかなかった例えを提案してくれました。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1ODg1NjA3LC0xOTMzODQ5MDNdfQ==
+eyJoaXN0b3J5IjpbMjEyNDMwMzAyMywxOTU4ODU2MDcsLTE5Mz
+M4NDkwM119
 -->

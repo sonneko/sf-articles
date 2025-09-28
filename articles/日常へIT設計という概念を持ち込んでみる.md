@@ -14,6 +14,8 @@
 
 実際僕は今回のSFの公式Webサイトを開発した人の1人ですが、設計の重要性を深く実感することになりました。
 
+プログラミングの設計思想を学ぶことで、私たちの日常の課題解決能力を向上させることができる。かもしれません...
+
 ## 設計とは
 設計が大事と主張してきたものの設計とは何かについて説明していなかったですね。IT開発における設計とは、これから行う作業のためにベースライン・方法などをまとめておくことを言います。プログラミングというタスクの具体的な指示書を作るイメージです。具体的に、スーパーマリオシリーズの最高傑作である（と思う）スーパーマリオオデッセイを作っている人の気持ちになってみましょう。
 
@@ -179,6 +181,6 @@ https://www.sirogohan.com/recipe/hanba-gu/：「家庭的な基本のハンバ�
 Claude・Gemini：一部のどうしても思いつかなかった例えを提案してくれました。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MjgzODc0MSwyMTI0MzAzMDIzLDE5NT
+eyJoaXN0b3J5IjpbMjAwMjY5MjIzMSwyMTI0MzAzMDIzLDE5NT
 g4NTYwNywtMTkzMzg0OTAzXX0=
 -->

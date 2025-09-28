@@ -1,6 +1,3 @@
-
-
-
 # 現代のLLMについて〜*Attention Is All You Need*〜
 
 LLMとは、Large Language Modelの略で日本語では大規模言語モデルと言われます。具体的にはchatGPTやGeminiやClaudeなどに代表されるAIのことを言います。
@@ -67,6 +64,8 @@ f'(x) ≒ ( f(x + h) - f(x) )/h （hは0に近い数）
 
 > 最適なパラメータを探索するとき、私たちの置かれている状況は、この冒険家と同じ暗闇の世界です。広大で複雑な地形を、地図もなく、目隠しをして「深き場所」を探さなければなりません。
 > 引用：「ゼロから作るDeep Learning」(斎藤康毅 著)
+
+!(https://)
 
 ただし、同じスピードで動くとかなり時間がかかってしまうので、傾きが大きければ大きいほど大きく動くことにします。
 ```
@@ -206,8 +205,8 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 他の記事も読んでね。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwOTE5MDA5LDUzNDcyMDk4MSw2ODE4NT
-ExNDMsMTY3NTA2MDE1NiwtOTczMzMwODIxLDEwMzM2OTA2NzQs
-MTIzMzIzNDk2MCwtMTM2NjI2OTI2OSwtMTU0NDI4NjIzOSw0MD
-EyMjY1MTddfQ==
+eyJoaXN0b3J5IjpbLTEwNTEzOTQwMDgsNTEwOTE5MDA5LDUzND
+cyMDk4MSw2ODE4NTExNDMsMTY3NTA2MDE1NiwtOTczMzMwODIx
+LDEwMzM2OTA2NzQsMTIzMzIzNDk2MCwtMTM2NjI2OTI2OSwtMT
+U0NDI4NjIzOSw0MDEyMjY1MTddfQ==
 -->

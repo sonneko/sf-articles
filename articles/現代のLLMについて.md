@@ -1,5 +1,7 @@
 # 現代のLLMについて〜*Attention Is All You Need*〜
 
+**この記事はAI生成ではありません**
+
 LLMとは、Large Language Modelの略で日本語では大規模言語モデルと言われます。具体的にはchatGPTやGeminiやClaudeなどに代表されるAIのことを言います。
 最近LLMはものすごい勢いで進化しています。その裏には*Attention*機構と呼ばれるAIモデルにおける革新的なアイデアの登場があります。
 
@@ -207,8 +209,9 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 他の記事も読んでね。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU1NTY1MjUwLDE2MjE0Nzg2NTIsNTEwOT
-E5MDA5LDUzNDcyMDk4MSw2ODE4NTExNDMsMTY3NTA2MDE1Niwt
-OTczMzMwODIxLDEwMzM2OTA2NzQsMTIzMzIzNDk2MCwtMTM2Nj
-I2OTI2OSwtMTU0NDI4NjIzOSw0MDEyMjY1MTddfQ==
+eyJoaXN0b3J5IjpbMTU3NjM1NTY2NiwzNTU1NjUyNTAsMTYyMT
+Q3ODY1Miw1MTA5MTkwMDksNTM0NzIwOTgxLDY4MTg1MTE0Mywx
+Njc1MDYwMTU2LC05NzMzMzA4MjEsMTAzMzY5MDY3NCwxMjMzMj
+M0OTYwLC0xMzY2MjY5MjY5LC0xNTQ0Mjg2MjM5LDQwMTIyNjUx
+N119
 -->

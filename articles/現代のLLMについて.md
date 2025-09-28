@@ -65,7 +65,7 @@ f'(x) ≒ ( f(x + h) - f(x) )/h （hは0に近い数）
 > 最適なパラメータを探索するとき、私たちの置かれている状況は、この冒険家と同じ暗闇の世界です。広大で複雑な地形を、地図もなく、目隠しをして「深き場所」を探さなければなりません。
 > 引用：「ゼロから作るDeep Learning」(斎藤康毅 著)
 
-!(https://)
+(https://dev.to/ashwinscode/deep-learning-library-from-scratch-3-more-optimisers-4l23)[https://dev.to/ashwinscode/deep-learning-library-from-scratch-3-more-optimisers-4l23]
 
 ただし、同じスピードで動くとかなり時間がかかってしまうので、傾きが大きければ大きいほど大きく動くことにします。
 ```
@@ -150,7 +150,7 @@ Token_1 Token_2 Token_3 Token_4
 ...という操作を行った後、ベクトルをニューラルネットワークに通すというのを1セットとして、何度もこのセットが繰り返されます。
 これが*Attention機構*です。実はサブタイトルの*Attention Is All You Need*の元ネタはこの計算機構を世界で初めて提案した有名な論文のタイトルです。
 
-[元ネタの論文](https://arxiv.org/pdf/1706.03762)
+[元ネタの論文: https://arxiv.org/pdf/1706.03762](https://arxiv.org/pdf/1706.03762)
 
 >ちなみにですがこの論文のヘッダを見るとわかりますが、この論文は*Google*のAI研究者によるものです。
 商業サービスという面では*OpenAI*による*chatGPT*に抜かれていますが、技術的には*Google*が先なんです。~~*Google*恐ろしや~~
@@ -205,8 +205,8 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 他の記事も読んでね。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTEzOTQwMDgsNTEwOTE5MDA5LDUzND
-cyMDk4MSw2ODE4NTExNDMsMTY3NTA2MDE1NiwtOTczMzMwODIx
-LDEwMzM2OTA2NzQsMTIzMzIzNDk2MCwtMTM2NjI2OTI2OSwtMT
-U0NDI4NjIzOSw0MDEyMjY1MTddfQ==
+eyJoaXN0b3J5IjpbODQyNDU2MTI1LDUxMDkxOTAwOSw1MzQ3Mj
+A5ODEsNjgxODUxMTQzLDE2NzUwNjAxNTYsLTk3MzMzMDgyMSwx
+MDMzNjkwNjc0LDEyMzMyMzQ5NjAsLTEzNjYyNjkyNjksLTE1ND
+QyODYyMzksNDAxMjI2NTE3XX0=
 -->

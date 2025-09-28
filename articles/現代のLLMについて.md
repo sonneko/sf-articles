@@ -65,7 +65,7 @@ f'(x) ≒ ( f(x + h) - f(x) )/h （hは0に近い数）
 > 最適なパラメータを探索するとき、私たちの置かれている状況は、この冒険家と同じ暗闇の世界です。広大で複雑な地形を、地図もなく、目隠しをして「深き場所」を探さなければなりません。
 > 引用：「ゼロから作るDeep Learning」(斎藤康毅 著)
 
-
+![勾配降下法](./gradient_descent.webp)
 
 画像は[# Deep Learning Library From Scratch 3: More optimisers: https://dev.to/ashwinscode/deep-learning-library-from-scratch-3-more-optimisers-4l23](https://dev.to/ashwinscode/deep-learning-library-from-scratch-3-more-optimisers-4l23])より引用しました。
 
@@ -207,8 +207,8 @@ AIがさらに極限まで発展したとしても、人間がAIに勝ってい�
 他の記事も読んでね。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMTQ3ODY1Miw1MTA5MTkwMDksNTM0Nz
-IwOTgxLDY4MTg1MTE0MywxNjc1MDYwMTU2LC05NzMzMzA4MjEs
-MTAzMzY5MDY3NCwxMjMzMjM0OTYwLC0xMzY2MjY5MjY5LC0xNT
-Q0Mjg2MjM5LDQwMTIyNjUxN119
+eyJoaXN0b3J5IjpbLTEyNTIyMDkyMiwxNjIxNDc4NjUyLDUxMD
+kxOTAwOSw1MzQ3MjA5ODEsNjgxODUxMTQzLDE2NzUwNjAxNTYs
+LTk3MzMzMDgyMSwxMDMzNjkwNjc0LDEyMzMyMzQ5NjAsLTEzNj
+YyNjkyNjksLTE1NDQyODYyMzksNDAxMjI2NTE3XX0=
 -->

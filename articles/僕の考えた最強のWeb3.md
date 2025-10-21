@@ -27,7 +27,7 @@ WebRTCとは`Web Real Time Communication`の略でP2P通信というデバイス
 
 そのためにWebRTCという技術を使います。これはブラウザから使えるP2PをするためのAPIで、本来はZoomなどのWeb会議に使われるAPIです。このAPIには、dataChennelというUDPに信頼性を持たせたチャンネルがあり、それを利用して低レイヤーをできるだけ触らずにWeb3を実現します。
 
-イメージは、WebRTCの上にOSC参照モデルでいうIPより上の階層をもう一度積み上げるようなものです。
+イメージは、WebRTCの上にOSI参照モデルでいうIPより上の階層をもう一度積み上げるようなものです。
 ```
 WebRTC -> DataChannel -> RoutingLayer -> TrasnportLayer -> ApplicationLayer
 ```
@@ -117,5 +117,5 @@ JSONを継承したマークアップを作るのもいいと思いますが、�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcxNjAzMjE4XX0=
+eyJoaXN0b3J5IjpbLTIxMTU4NDc0NzYsODcxNjAzMjE4XX0=
 -->

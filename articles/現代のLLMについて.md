@@ -5,7 +5,7 @@
 LLMとは、Large Language Modelの略で日本語では大規模言語モデルと言われます。具体的にはchatGPTやGeminiやClaudeなどに代表されるAIのことを言います。
 最近LLMはものすごい勢いで進化しています。その裏には*Attention*機構と呼ばれるAIモデルにおける革新的なアイデアの登場があります。
 
-この記事では前提知識として一般的なAIの学習の方法である勾配降下法から始まり具体的なイメージを掴んでもらうためにニューラルネットワークを説明します。その後いよいよLLMの内部構造・Attention機構とはつまるところ何なのかを説明していきます。さらにAIについて自論を話し、なぜそう思うかについて具体的根拠を書きます。継続してAIと人間の依存対象について考察し、最後は唐突にLLMを巡る経済事情を紹介して締めます。
+この記事では前提知識として一般的なAIの学習の方法である勾配降下法から始まり具体的なイメージを掴んでもらうためにニューラルネットワークを説明します。その後いよいよLLMの内部構造・Attention機構とはつまるところ何なのかを説明していきます。さらにAIについて自論を話し、なぜそう思うかについて具体的根拠を書きます。継続してAIと人間の依存対象について考察します。
 
 現代のブラックボックスの筆頭であるAIを感覚的に理解してもらえるよう作っておりますので、最後まで読んでくれたら嬉しいです。
 
@@ -262,28 +262,10 @@ AIの外部依存とはAIのアクチュエータのことです。具体的に�
 人間の依存情報つまり人間のアイデンティを再構築するのに最低限必要な情報というのは、DNA情報及び人類の組み上げてきた通時的かつ膨大な経験情報にしかないはずです。もし経験情報が偶然違う世界線における人類と、この世界の人類がどちらも同じ人類だという少し強引な仮定をしても良いならば、人類らしさはDNAに含まれるたった750MBほどのヒトゲノムに集約されてしまうわけですがこれは当然間違いです。今の最新のLLMのサイズが数百GBレベルであることを踏まえると、人類はそのアイデンティを経験情報に依存しきっていることが伺えます。
 では経験情報とは何かというと言語です。つまり言語だけでもいいのです。知能とは、通時的コミュニケーションができる任意の媒体に現れる特徴なのではないでしょうか。
 
-## 経済事情
-
-天下のGAFAM(Google, Apple, Facebook→Meta, Amazon, Microsoft)とOpenAIのAIをめぐる戦いを紹介します。
-
-まずはエンジニア視点で見たそれぞれの会社について。
-
-| 企業名 | オープンソースソフトウェア・サービス | 印象 |
-|--|--|--|
-| Google | GC Golang Firebase Tensorflow | 幅広い分野でオープン。エンジニアの味方 |
-| Apple | Swift Xcode | クローズド。Apple関連の開発は嫌われがち |
-| Meta | React | Reactいつも使ってます。他の印象はあまりない |
-| Amazon | AWS | AWS使ったことない |
-| Microsoft | GitHub VSCode | 君なしでの開発は考えられない。みんな強依存 |
-| OpenAI | chatGPT | Googleの敵 |
-
-今のAI市場は、OpenAIがほとんど独占状態です。
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTQxMTc1ODEsMTU3NjM1NTY2NiwzNT
-U1NjUyNTAsMTYyMTQ3ODY1Miw1MTA5MTkwMDksNTM0NzIwOTgx
-LDY4MTg1MTE0MywxNjc1MDYwMTU2LC05NzMzMzA4MjEsMTAzMz
-Y5MDY3NCwxMjMzMjM0OTYwLC0xMzY2MjY5MjY5LC0xNTQ0Mjg2
-MjM5LDQwMTIyNjUxN119
+eyJoaXN0b3J5IjpbMjA4MDQyMTQ4LDE1NzYzNTU2NjYsMzU1NT
+Y1MjUwLDE2MjE0Nzg2NTIsNTEwOTE5MDA5LDUzNDcyMDk4MSw2
+ODE4NTExNDMsMTY3NTA2MDE1NiwtOTczMzMwODIxLDEwMzM2OT
+A2NzQsMTIzMzIzNDk2MCwtMTM2NjI2OTI2OSwtMTU0NDI4NjIz
+OSw0MDEyMjY1MTddfQ==
 -->
